@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @code-x-1010
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning B Tech in Vellore Institute of Technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Reasoning in LLMs
+- 🌱 I’m currently learning MS CS in Arizona State Univeristy
+
 
 <!---
 code-x-1010/code-x-1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
