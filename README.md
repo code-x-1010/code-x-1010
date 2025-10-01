@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @code-x-1010
-- 👀 I’m interested in Reasoning in LLMs
+- 👀 I’m interested in creating Safer AIs
 - 🌱 I’m currently learning MS CS in Arizona State Univeristy
 
 
