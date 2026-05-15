@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @code-x-1010
 - 👀 I’m interested in creating Safer AIs
-- 🌱 I’m currently learning MS CS in Arizona State Univeristy
+- 🌱 I’m a MS CS graduate from Arizona State Univeristy
 
 
 <!---
